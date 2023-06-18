@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main - Print the last digit of the number stored in the var n.
+ * main - Print the last digit of the number stored
  * Return: Always (Success)
  *
  */
@@ -19,11 +19,11 @@ int main(void)
 
 	if (lastd > 5)
 	{
-	printf("Last digit of %d is %d and is greater than 5\n", n, lastd;
+	printf("Last digit of %d is %d and is greater than 5\n", n, lastd);
 	}
 	else if (lastd == 0)
 	{
-	printf("Last digit of %d is %d and is 0\n", lastd);
+	printf("Last digit of %d is %d and is 0\n", n, lastd);
 	}
 	else if (lastd < 6 && lastd != 0)
 	{

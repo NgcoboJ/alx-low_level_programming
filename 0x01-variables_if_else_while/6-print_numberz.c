@@ -4,7 +4,7 @@
 
 /**
  * main - Print all single digit numbers of base 10 starting from 0
- * Return: 0 (Success)
+ * Return: SingleDigit 0 (Success)
  */
 
 int main(void)

@@ -7,7 +7,7 @@
  * Return: Alphabet 0 (reverse)
  */
 
-int main (void)
+int main(void)
 
 {
 

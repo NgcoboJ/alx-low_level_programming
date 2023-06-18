@@ -5,7 +5,7 @@
 #include <stdio.h>
 
 /**
- * main - Print whether the number stored in the variable n is positive or negative.
+ * main - Print whether the number stored is positive or negative.
  * Return: Always (Success)
  *
  */
